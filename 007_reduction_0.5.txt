@@ -1,0 +1,9 @@
+-----------------------------
+Exercícios
+-------------------------
+1. Faça um programa que encontre o desvio padrão amostral.
+de um conjunto de valores de  dois milhões de salários de uma
+bigtech fictícia espalhadas nas americas. Escolha o nome da sua bigtech, 
+assim como, dos departamentos e cargos.
+
+
